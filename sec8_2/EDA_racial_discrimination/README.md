@@ -30,4 +30,3 @@ You can include written notes in notebook cells using Markdown:
 + Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
 + Formulas for the Bernoulli distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
 </div>
-****
