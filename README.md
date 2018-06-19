@@ -8,3 +8,9 @@
 * Human Body Temperature
 * Examine Racial Discrimination
 * Reducing Hospital Readmissions
+
+### Section 11 - Machine Learning:
+* Linear Regression
+* Logistic Regression
+* Naive Bayes
+* Clustering
